@@ -1,7 +1,8 @@
 ---
-title: pythonで任意の桁の値を取得する方法
+title: pythonで任意の桁の値を取る
 tags:
-  - 'Python' '初心者'
+  - Python
+  - 初心者
 private: false
 updated_at: ''
 id: null
