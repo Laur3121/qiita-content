@@ -10,7 +10,7 @@ organization_url_name: null
 slide: false
 ignorePublish: false
 ---
-# pythonで任意の桁の値を取得
+## 最初に概要
 
 この記事はプログラミング初心者がモチベーションを保つために１日に学んだことなどをひたすらに書いていくものです。
 
