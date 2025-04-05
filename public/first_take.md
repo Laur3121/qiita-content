@@ -4,8 +4,8 @@ tags:
   - Python
   - 初心者
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-04-06T03:27:26+09:00'
+id: 731118cf3d2b5a3fda51
 organization_url_name: null
 slide: false
 ignorePublish: false
