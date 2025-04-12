@@ -1,13 +1,13 @@
 ---
 title: ip addressを固定する際にnetplanで沼った話
 tags:
-  - ubuntu
+  - Ubuntu
+  - RaspberryPi
   - 初心者
   - netplan
-  - RaspberryPi
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-04-12T12:42:46+09:00'
+id: 60290f370c440028cff0
 organization_url_name: null
 slide: false
 ignorePublish: false
